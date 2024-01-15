@@ -12,7 +12,7 @@ We have provided the code for our 2D-3D shape reconstruction algorithm [here](ht
 
 ## CNN pytorch code
 
-We have provided code and pre-trained models for lung and airway segmentations from CT images [here](https://github.com/jvwilliams23/respiratoryCNN-toolkit).
+We have provided code and pre-trained models for lung and airway segmentations from CT images [here](https://github.com/jvwilliams23/respiratoryCNN-toolkit) or at [doi: 10.5281/zenodo.10512412](https://doi.org/10.5281/zenodo.10512412).
 
 ## CFD solver source code
 
