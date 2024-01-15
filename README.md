@@ -16,5 +16,5 @@ We have provided code and pre-trained models for lung and airway segmentations f
 
 ## CFD solver source code
 
-Our 3D-0D OpenFOAM solver for flow in patient airways is given [here](https://github.com/jvwilliams23/deepLungFoam).
+Our 3D-0D OpenFOAM solver for flow in patient airways is given [here](https://github.com/jvwilliams23/deepLungFoam) or at [doi: 10.5281/zenodo.7448214](https://doi.org/10.5281/zenodo.7448214).
 
