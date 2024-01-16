@@ -8,7 +8,7 @@ Our paper proposes a new approach for reconstructing patient-specific lung and a
 
 ## 2D-3D SSAM reconstruction code
 
-We have provided the code for our 2D-3D shape reconstruction algorithm [here](https://github.com/jvwilliams23/respiratorySSAMpy) or at [doi: 10.5281/zenodo.10512379](https://doi.org/10.5281/zenodo.10512379). This relies on our `pyssam` package, which is available [here](https://github.com/jvwilliams23/pyssam).
+We have provided the code for our 2D-3D shape reconstruction algorithm [here](https://github.com/jvwilliams23/respiratorySSAMpy) or at [doi: 10.5281/zenodo.10518240](https://doi.org/10.5281/zenodo.10518240). We provide a static version of the code in this DOI. The linked repository also contains a version which relies on our `pyssam` package, which is available [here](https://github.com/jvwilliams23/pyssam). Note that `pyssam` is under active development.
 
 ## CNN pytorch code
 
